@@ -10,9 +10,10 @@ There are three main parts to this project:
 3.  Design and fabrication of the robotic arm
 
 
-                                                         About The Code  
-                                                         
+                                                         About The Code 
+                                                          
 **StockfishPy.py**
+
 This is the python code that runs on the Raspberry Pi.
 The code receives the move scanned by the sensory chessboard and first checks if the move is valid or not. If the move is valid it sends the move in SAN notation to the Stockfish chess engine and retreives the next move that the computer/robot should play. If the move is invalid then a character is sent back to the arduino which in turn turns on an LED notifying the player that a wrong move is played and allows them to play the move again.
 Additional Functionality: A switch can be turned on which enables assistance mode. So, if the player plays a wrong move the computer will display a list of possible moves that the player can make with the piece they moved wrongly.
