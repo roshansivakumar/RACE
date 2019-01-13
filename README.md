@@ -10,7 +10,7 @@ There are three main parts to this project:
 3.  Design and fabrication of the robotic arm
 
 
-                                                         About The Code
+                                                         About The Code  
                                                          
 **StockfishPy.py**
 This is the python code that runs on the Raspberry Pi.
