@@ -20,3 +20,5 @@ The purpose of the project was to create a robot playing chess game where anyone
 6.  Reusability of the solution for future projects 
 The solution that will be designed has to address all of the 6 aspects.
 
+
+https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj68pWinuvfAhVHT30KHV7iB_AQjRx6BAgBEAU&url=https%3A%2F%2Fwww.w3schools.com%2Fbootstrap%2Fbootstrap_images.asp&psig=AOvVaw3fET-22K3eVk7Qvu5Djqoz&ust=1547485338164191
